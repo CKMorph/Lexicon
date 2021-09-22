@@ -2,6 +2,7 @@
 
 
 ## Database of Central Kurdish Verbs
+The Comprehensive database of Central Kurdish verbs used in CKMorph Morphological Analyzer.
 Prepared By: Aso Mahmudi (`aso.mehmudi[at]gmail.com`)
 
 For each verb the following properties are specified:
@@ -14,8 +15,8 @@ For each verb the following properties are specified:
 7. `Req.ەوە` : the verb will be ill-formed without "ەوە" suffix (e.g., پاڕان+ەوە)
 8. Preverbs `هەڵ`, `دا`	,`ڕا`, `ڕۆ`,	`وەر`,	`سەر`,	`دەر`: the verb can occure with these preverbs for forming new meanings (e.g., هەڵ+گرتن)
 9. `Req.Preverb`: the verb will be ill-formed without a preverb (e.g., هەڵ+واسین)
-10. `Postp(ـە)`: the varb can take the postpositional clitic "ە" (e.g., هاتنە دەرەوە)
-11. `FreePP`: the free past participle is an well-formed adjective (e.g., هاتوو)
+10. `Postp(ـە)`: the verb can take the postpositional clitic "ە" (e.g., هاتنە دەرەوە)
+11. `FreePP`: the free past participle is a well-formed adjective (e.g., هاتوو)
 12. `Only.3SG.Obj`: the verb is transitive but only takes 3rd person singular object (e.g., گوتن)
 
 Notes:  
