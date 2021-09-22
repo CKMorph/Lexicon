@@ -1,0 +1,2 @@
+# Lexicon
+Central Kurdish Lexicon
