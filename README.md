@@ -2,6 +2,8 @@
 
 
 ## Database of Central Kurdish Verbs
+[![DOI](https://zenodo.org/badge/409043053.svg)](https://zenodo.org/badge/latestdoi/409043053)
+
 The Comprehensive database of Central Kurdish verbs used in CKMorph Morphological Analyzer.
 Prepared By: Aso Mahmudi (`aso.mehmudi[at]gmail.com`)
 
