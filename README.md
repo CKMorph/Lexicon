@@ -27,11 +27,12 @@ For each verb the following properties are specified:
 Notes:  
 * Non-standard variations are in \[brackets\]
 * The agent stem of transitive verbs is usually the present stem, except: 
-بردن|بەر, بیستن|بیست, خستن|خەر, خواردن|خۆر, دان|دەر, کردن|کەر, کوتان|کوت, گوتن|بێژنان|نەر
+بردن|بەر, بیستن|بیست, خستن|خەر, خواردن|خۆر, دان|دەر, کردن|کەر, کوتان|کوت, گوتن|بێژ, نان|نەر
 * For the verb "ویستن" the present forms are conjugated differently
 
 ## Cite:
 The paper is submited to a journal and is under review. You can find the preprint in [Arxiv](https://arxiv.org/abs/2109.08615)
+
 	@article{naserzade2023CKMorph,
 		title={CKMorph: A Comprehensive Morphological Analyzer for Central Kurdish},
 		author={Naserzade, Morteza and Mahmudi, Aso and Veisi, Hadi and Hosseini, Hawre and MohammadAmini, Mohammad},
@@ -39,3 +40,4 @@ The paper is submited to a journal and is under review. You can find the preprin
 		year={2023},
 		publisher={Springer}
 	}
+
